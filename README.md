@@ -1,2 +1,2 @@
 # git-projects
-This is a common place to share my code with the rest
+This is a common place to share my code with the rest of the world
